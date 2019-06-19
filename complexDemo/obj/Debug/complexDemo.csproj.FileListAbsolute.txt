@@ -1,0 +1,14 @@
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\bin\Debug\complexDemo.exe.config
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\bin\Debug\complexDemo.exe
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\bin\Debug\complexDemo.pdb
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\obj\Debug\complexDemo.csprojAssemblyReference.cache
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\obj\Debug\complexDemo.csproj.CoreCompileInputs.cache
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\obj\Debug\complexDemo.exe
+H:\Semester2\COMP123\week04\complexDemo\complexDemo\obj\Debug\complexDemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\bin\Debug\complexDemo.exe.config
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\bin\Debug\complexDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\bin\Debug\complexDemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\obj\Debug\complexDemo.csprojAssemblyReference.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\obj\Debug\complexDemo.csproj.CoreCompileInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\obj\Debug\complexDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\complexDemo\complexDemo\obj\Debug\complexDemo.pdb
